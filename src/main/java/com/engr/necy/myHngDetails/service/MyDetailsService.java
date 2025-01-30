@@ -8,6 +8,6 @@ import java.time.Instant;
 @Service
 public class MyDetailsService {
     public MyDetailsDto getMyDetails() {
-        return new MyDetailsDto("estherlinus090@gmail.com", Instant.now().toString(), "https://github.com/NecyNazy/MyBasicDetails");
+        return new MyDetailsDto("estherlinus090@gmail.com", Instant.now().toString(), "https://github.com/Code-Mistress/MyHNGBasicDetails");
     }
 }
