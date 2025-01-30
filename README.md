@@ -4,7 +4,7 @@ To run API locally, You input the BaseUrl on a browser to return my basic detail
 
 ## API Endpoint
   -  **Base URL:** `http://myhngdetails-env.eba-pxrsaj23.us-east-1.elasticbeanstalk.com/api/myDetails`
-  -  **GET /api/v1/myDetails:** - Return basic user information.
+  -  **GET /api/myDetails:** - Return basic user information.
 
 ## JSON Response Format
 ```json
