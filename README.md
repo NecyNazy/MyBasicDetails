@@ -3,7 +3,7 @@ This is a simple API to fetch my email, githuburl with a dynamic date and timest
 To run API locally, You input the BaseUrl on a browser to return my basic details.
 
 ## API Endpoint
-  -  **Base URL:** ``
+  -  **Base URL:** `http://myhngdetails-env.eba-pxrsaj23.us-east-1.elasticbeanstalk.com/api/myDetails`
   -  **GET /api/v1/myDetails:** - Return basic user information.
 
 ## JSON Response Format
